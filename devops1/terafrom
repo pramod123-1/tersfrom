@@ -1,0 +1,20 @@
+'git it is version control sysytem 
+source code xontrol [D[D[D[D[D[D[c
+it is used to touch the changes infiles[D[D[D[D[D [C[Dfiles 
+it is indepent plotfrom
+ itsfree and open- source
+they save time to devlopers can fatch and create pull request with out switching 
+ git stages 
+1 working direcotry 
+2 staging area
+3 repository 
+
+1 working area : in the stage git in only awere of having files in the projcet it will not track these files we commit those files 
+2 staging area : this is like a rough draft it s where you can git add version of file of mulitipule files that youwant to save in your next commit
+3 repository : its nothing but follder a repository has all the projct- releted data
+ 3 types of repo 
+1
+[
+1 local
+2 central
+3 remote 
